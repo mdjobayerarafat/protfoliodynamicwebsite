@@ -1,10 +1,9 @@
-# Flexy Dev - Next.js Portfolio Template
+# Jobayer Arafat - Next.js and FastApi Portfolio Template
 
 ![](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[![Premium Version](https://img.shields.io/badge/PREMIUM_%20VERSION-AVAILABLE-%2300C7B7?style=for-the-badge&logo=stellar&logoColor=white)](https://basit313.gumroad.com/l/nextjs-developer-portfolio-template)
 
 ✨ **Professional Portfolio Template** built with Next.js 14 • 🚀 Tailwind CSS • 📱 Fully Responsive • 🎨 Modern Design • 🔍 SEO Friendly
 
@@ -110,38 +109,7 @@ We use Tailwind CSS for styling. In tailwind.config.ts, you can customize theme 
 
 ### If you find this template helpful, don't forget to ⭐️ the repo!
 
-## 💎 Upgrade to Premium
 
-✨ **Premium Features Include:**
-
-- 🎨 **Advanced Theme System**  
-  Switch or choose 4 built-in themes:  
-  `Dark` | `Light` | `Retro` | `Aqua`
-
-  [+] Create custom themes with CSS variables
-
-- 📝 MDX Blog System with Categories/Tags
-- 💬 Interactive Testimonials Section
-- 📩 Contact Form with Formspree Integration
-- 🖥️ Premium Footer Design
-- 🚨 Priority Email Support
-- 🔄 Regular Feature Updates
-
-[Get Premium Version](https://basit313.gumroad.com/l/nextjs-developer-portfolio-template) | [View Premium Demo](https://nextjs-dev-portfolio.netlify.app/)
-
-## 🆓 vs 💎 Premium
-
-| **Feature**          | **Free Version** | **Premium Version**      |
-| -------------------- | ---------------- | ------------------------ |
-| Blog System (MDX)    | ❌               | ✅ Full Integration      |
-| Testimonials Section | ❌               | ✅ Interactive           |
-| Contact Form         | ❌               | ✅ Functional Premium UI |
-| Footer Design        | Standard         | ✅ Premium UI            |
-| Theme Options        | Dark Theme       | ✅ 4+Custom              |
-| UI Components        | 10               | 25+                      |
-| Email Support        | ✅               | ✅ Priority              |
-
-![services and footer section](https://ik.imagekit.io/cpnw7c0xpe/Tailwind%20Components/Templates/flexy-dev-marquee-and-footer.png?updatedAt=1739182152260)
 
 ## Analytics
 
@@ -157,4 +125,4 @@ Before deploying, add environment variables from .env.local wherever you are dep
 1. NEXT_PUBLIC_SITE_URL: Set to your actual site URL (e.g., https://johndoe.com).
 2. For local development, use the localhost URL.
 
-For any query or suggestion, I am available on [LinkedIn](https://www.linkedin.com/in/abdulbasitprofile/) or email me at basit@codevertiser.com
+For any query or suggestion, I am available on [LinkedIn](https://www.linkedin.com/in/md-jobayer-arafat-a14b61284/) or email me at mdjobayerarafat@@@gmail.com
